@@ -1,2 +1,2 @@
-# Git Control
+# Git version control sandbox
 
